@@ -1,0 +1,14 @@
+C:\Documents and Settings\msdev\mis documentos\visual studio 2010\Projects\FlashServer\FlashServer\bin\Debug\FlashServer.exe
+C:\Documents and Settings\msdev\mis documentos\visual studio 2010\Projects\FlashServer\FlashServer\bin\Debug\FlashServer.pdb
+C:\Documents and Settings\msdev\mis documentos\visual studio 2010\Projects\FlashServer\FlashServer\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Documents and Settings\msdev\mis documentos\visual studio 2010\Projects\FlashServer\FlashServer\bin\Debug\ExternalInterfaceProxy.dll
+C:\Documents and Settings\msdev\mis documentos\visual studio 2010\Projects\FlashServer\FlashServer\bin\Debug\ShockwaveFlashObjects.dll
+C:\Documents and Settings\msdev\mis documentos\visual studio 2010\Projects\FlashServer\FlashServer\bin\Debug\ExternalInterfaceProxy.pdb
+C:\Documents and Settings\msdev\mis documentos\visual studio 2010\Projects\FlashServer\FlashServer\bin\Debug\AxShockwaveFlashObjects.pdb
+C:\Documents and Settings\msdev\mis documentos\visual studio 2010\Projects\FlashServer\FlashServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\msdev\mis documentos\visual studio 2010\Projects\FlashServer\FlashServer\obj\x86\Debug\FlashServer.FlashSever.resources
+C:\Documents and Settings\msdev\mis documentos\visual studio 2010\Projects\FlashServer\FlashServer\obj\x86\Debug\FlashServer.Properties.Resources.resources
+C:\Documents and Settings\msdev\mis documentos\visual studio 2010\Projects\FlashServer\FlashServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\msdev\mis documentos\visual studio 2010\Projects\FlashServer\FlashServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\msdev\mis documentos\visual studio 2010\Projects\FlashServer\FlashServer\obj\x86\Debug\FlashServer.exe
+C:\Documents and Settings\msdev\mis documentos\visual studio 2010\Projects\FlashServer\FlashServer\obj\x86\Debug\FlashServer.pdb

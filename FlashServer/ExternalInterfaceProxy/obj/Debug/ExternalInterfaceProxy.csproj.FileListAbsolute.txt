@@ -1,0 +1,8 @@
+C:\Documents and Settings\msdev\mis documentos\visual studio 2010\Projects\FlashServer\ExternalInterfaceProxy\bin\Debug\ExternalInterfaceProxy.dll
+C:\Documents and Settings\msdev\mis documentos\visual studio 2010\Projects\FlashServer\ExternalInterfaceProxy\bin\Debug\ExternalInterfaceProxy.pdb
+C:\Documents and Settings\msdev\mis documentos\visual studio 2010\Projects\FlashServer\ExternalInterfaceProxy\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Documents and Settings\msdev\mis documentos\visual studio 2010\Projects\FlashServer\ExternalInterfaceProxy\bin\Debug\ShockwaveFlashObjects.dll
+C:\Documents and Settings\msdev\mis documentos\visual studio 2010\Projects\FlashServer\ExternalInterfaceProxy\bin\Debug\AxShockwaveFlashObjects.pdb
+C:\Documents and Settings\msdev\mis documentos\visual studio 2010\Projects\FlashServer\ExternalInterfaceProxy\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\msdev\mis documentos\visual studio 2010\Projects\FlashServer\ExternalInterfaceProxy\obj\Debug\ExternalInterfaceProxy.dll
+C:\Documents and Settings\msdev\mis documentos\visual studio 2010\Projects\FlashServer\ExternalInterfaceProxy\obj\Debug\ExternalInterfaceProxy.pdb

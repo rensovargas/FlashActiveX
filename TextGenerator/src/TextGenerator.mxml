@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:Application xmlns:fx="http://ns.adobe.com/mxml/2009" 
+			   xmlns:s="library://ns.adobe.com/flex/spark" 
+			   xmlns:mx="library://ns.adobe.com/flex/mx" minWidth="329" xmlns:text="com.zemoga.text.*" xmlns:local="*" creationComplete="init()">
+	<fx:Declarations>
+		
+	</fx:Declarations>
+	<fx:Script>
+		<![CDATA[
+			import by.blooddy.crypto.Base64;
+			
+			import com.zemoga.event.DynamicTextEvent;
+			import com.zemoga.event.EIMessageEvent;
+			import com.zemoga.text.DynamicText;
+			
+			import mx.binding.utils.ChangeWatcher;
+			import mx.events.FlexEvent;
+			import mx.events.PropertyChangeEvent;
+			
+			private var manager:ExternalInterfaceManager;
+			
+			private function init():void{
+				manager = new ExternalInterfaceManager();
+				manager.addEventListener(EIMessageEvent.NEW_MESSAGE,onNewMessageHandler);
+				manager.dynamicText = this.dynamicTextOnStage;
+			}
+			
+			private function onNewMessageHandler(e:EIMessageEvent):void{
+				this.messages.text += e.message + "\n";
+			}
+			
+		]]>
+	</fx:Script>
+	<s:VGroup>
+		<s:TextArea id="messages" editable="false" width="329" height="180"/>
+		<text:DynamicText id="dynamicTextOnStage" text="text" visible="true" width="300"/>
+	</s:VGroup>
+	
+</s:Application>
