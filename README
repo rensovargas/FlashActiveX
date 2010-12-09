@@ -1,0 +1,3 @@
+Flash integration with a C# Winforms App using ActiveX.
+
+The main idea was to generate a text as image in flash and send the encoded bytearray to the app.
